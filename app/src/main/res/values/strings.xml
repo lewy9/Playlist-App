@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Playlist</string>
+    <string name="home">Home</string>
+    <string name="playlist">My Playlist</string>
+    <string name="search_name">Search by artist name</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="cover">Cover</string>
+    <string name="btn">Back</string>
+    <string name="playCount">Playcount:</string>
+    <string name="listeners">Listeners:</string>
+    <string name="save">Save</string>
+    <string name="unsave">Unsave</string>
+</resources>
